@@ -1,10 +1,10 @@
 ## このリポジトリの目的
 
-pages routing で書かれたコードを app routing にリプレイスさせ、next.js13 のキャッチアップをすることを目的にしております。
+pages router で書かれたコードを app router にリプレイスさせ、next.js13 のキャッチアップをすることを目的にしております。
 
 ## 目標
 
-- pages routing から app routing へリプレイス
+- pages router から app router へリプレイス
 - storybook の追加
 
 ## 前提条件
