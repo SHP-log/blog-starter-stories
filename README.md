@@ -1,3 +1,12 @@
+## このリポジトリの目的
+
+pages routing で書かれたコードを app routing にリプレイスさせ、next.js13 のキャッチアップをすることを目的にしております。
+
+## 目標
+
+- pages routing から app routing へリプレイス
+- storybook の追加
+
 ## 前提条件
 
 ```
